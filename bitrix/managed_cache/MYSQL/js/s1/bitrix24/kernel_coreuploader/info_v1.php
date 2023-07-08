@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/js/main/core/core_uploader/common.js" => "16883312938713","/bitrix/js/main/core/core_uploader/uploader.js" => "168833129356457","/bitrix/js/main/core/core_uploader/file.js" => "168833129322930","/bitrix/js/main/core/core_uploader/queue.js" => "168833129311420",]; ?>
